@@ -8,6 +8,7 @@
     - At first, we use Electra, but number of tokens is limited.
     - So use Bigbird and number of tokens is increased from 512 to 4096.
   - Bigbird model architecture
+
 ![image](https://user-images.githubusercontent.com/77087144/186680051-898a9025-b4bf-4657-b7d2-6b44e542306f.png)
   image link : https://soundprovider.tistory.com/entry/2020-Big-Bird-Transformers-for-Longer-Sequences
 
